@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes the **Global Superstore Sales Dataset** to uncover key business insights related to sales, profitability, customer behavior, product performance, regional markets, and shipping efficiency.
 
@@ -20,7 +20,7 @@ This dashboard enables decision-makers to monitor business performance through i
 
 ---
 
-# 🏆 Dashboard Preview
+#  Dashboard Preview
 
 ![Dashboard]("C:\Users\raush\OneDrive\Pictures\Screenshots\Screenshot 2026-07-09 185714.png")
 
@@ -60,7 +60,7 @@ Users can filter the dashboard by:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 | Tool | Purpose |
 |------|----------|
@@ -75,7 +75,7 @@ Users can filter the dashboard by:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 Global-Sales-Revenue-Analytics
@@ -100,7 +100,7 @@ Global-Sales-Revenue-Analytics
 
 ---
 
-# 📊 SQL Analysis
+# SQL Analysis
 
 The complete business analysis was performed using **DuckDB SQL** inside Jupyter Notebook.
 
@@ -124,7 +124,7 @@ The complete business analysis was performed using **DuckDB SQL** inside Jupyter
 
 ---
 
-# 📈 Business Questions Solved
+# Business Questions Solved
 
 ✔ Total Sales, Profit & Orders
 
@@ -160,7 +160,7 @@ The complete business analysis was performed using **DuckDB SQL** inside Jupyter
 
 # 📈 Key Business Insights
 
-### 💰 Sales Performance
+### Sales Performance
 
 - Total Revenue exceeded **12.64 Million**
 - Total Profit reached **1.47 Million**
@@ -168,7 +168,7 @@ The complete business analysis was performed using **DuckDB SQL** inside Jupyter
 
 ---
 
-### 🌍 Market Insights
+### Market Insights
 
 - APAC generated the highest revenue.
 - Europe contributed strong profits.
@@ -176,7 +176,7 @@ The complete business analysis was performed using **DuckDB SQL** inside Jupyter
 
 ---
 
-### 📦 Product Insights
+### Product Insights
 
 - Apple Smart Phone (Full Size) generated the highest sales.
 - Canon imageCLASS 2200 Advanced Copier generated the highest profit.
@@ -184,7 +184,7 @@ The complete business analysis was performed using **DuckDB SQL** inside Jupyter
 
 ---
 
-### 🛒 Category Insights
+### Category Insights
 
 Technology generated the highest sales.
 
@@ -194,7 +194,7 @@ Furniture generated comparatively lower profitability.
 
 ---
 
-### 🚚 Shipping Insights
+### Shipping Insights
 
 Standard Class accounted for the highest number of orders.
 
@@ -202,7 +202,7 @@ Same Day shipping represented the smallest share of deliveries.
 
 ---
 
-### 📅 Time Analysis
+### Time Analysis
 
 Sales increased consistently from 2011 to 2014.
 
@@ -210,7 +210,7 @@ The highest revenue was recorded during November and December.
 
 ---
 
-# 📈 Power BI Dashboard Features
+# Power BI Dashboard Features
 
 The dashboard includes:
 
@@ -225,7 +225,7 @@ The dashboard includes:
 
 ---
 
-# 📚 DAX Measures
+# DAX Measures
 
 Measures created:
 
@@ -243,7 +243,7 @@ Profit Margin %
 
 ---
 
-# 🎯 Skills Demonstrated
+# Skills Demonstrated
 
 - Data Cleaning
 
@@ -267,7 +267,7 @@ Profit Margin %
 
 ---
 
-# 📁 Dataset
+# Dataset
 
 Dataset Used:
 
@@ -279,7 +279,7 @@ Columns: **28**
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Customer Lifetime Value Analysis
 
@@ -297,7 +297,7 @@ Columns: **28**
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
 
@@ -313,12 +313,12 @@ with the goal of securing Data Analyst opportunities in **National and internati
 
 ---
 
-# ⭐ If you found this project useful
+# If you found this project useful
 
 Please consider giving this repository a ⭐ on GitHub.
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 **GitHub:** https://github.com/Raushani27
